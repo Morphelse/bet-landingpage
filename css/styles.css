@@ -88,9 +88,9 @@
 .woman{
   display: flex;
   width: 150px;
-
+  margin: 0 auto;
   padding-right: 0px;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
 
 
 }
