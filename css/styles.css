@@ -76,6 +76,30 @@
   }
 }
 
+
+
+
+.service-bolo{
+
+
+  width: 100px;
+
+}
+.woman{
+  display: flex;
+  width: 150px;
+
+  padding-right: 0px;
+  padding-bottom: 10px;
+
+
+}
+.footer-logo{
+  width: 42px;
+
+
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -88,6 +112,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
 
 hr {
   margin: 1rem 0;
@@ -4036,6 +4061,13 @@ textarea.form-control-lg {
   justify-content: space-between;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+.icon-navbar{
+
+  
+  height: 70px !important;
+  width: 70px;
+
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -11389,7 +11421,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #FFB5EF;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -11410,7 +11442,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/background.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
