@@ -113,7 +113,7 @@ button i {
 
 @media screen and (max-width: 600px) {
   button {
-    display: block;
+    display: flex;
   }
 }
 .service-bolo{
