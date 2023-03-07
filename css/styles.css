@@ -7716,6 +7716,7 @@ textarea.form-control-lg {
 
 .fw-bolder {
   font-weight: bolder !important;
+  color: #15ff00;
 }
 
 .lh-1 {
@@ -11791,10 +11792,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   /*mapa*/
-  background-color: #212529;
-  background-image: url("../assets/img/map-image.png");
-  background-repeat: no-repeat;
-  background-position: center;
+  background-color: #FFB5EF;
 }
 section#contact .section-heading {
   color: #fff;
