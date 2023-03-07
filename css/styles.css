@@ -90,6 +90,7 @@ button {
   border-radius: 600px;
   padding: 12px 20px;
   font-size: 20px;
+  
   font-weight: 500;
   line-height: 22px;
   display: none;
@@ -114,15 +115,6 @@ button i {
   button {
     display: flex;
   }
- a{
-   
-   text-decoration = none;
-   
-  }
-   
-   
-  
-  
 }
 .service-bolo{
 
@@ -308,7 +300,7 @@ sup {
 
 a {
   color: #ffc800;
-  text-decoration: underline;
+  text-decoration: none;
 }
 a:hover {
   color: #cca000;
